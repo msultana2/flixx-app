@@ -1,1 +1,1 @@
-Vanilla JS app that displays current movie and TV show info using MovieDB rest API 
+Vanilla JS app that displays current movie and TV show info from MovieDB rest API 
